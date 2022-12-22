@@ -1,1 +1,1 @@
-telegram_token = "5788888125:AAEqnwOxVMDrtjNg3rCVORWlW-7TZAwFspI"
+telegram_token = "yourtoken"
